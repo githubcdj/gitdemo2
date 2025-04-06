@@ -16,6 +16,6 @@ public class Main {
         System.out.println("hello git3");
         System.out.println("hello git3");
         System.out.println("hello git4cdjcdjmas");
-        System.out.println("hello git4cdjcdj123");
+        System.out.println("本地库更改后推送");
     }
 }
